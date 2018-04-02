@@ -7,8 +7,8 @@ import org.hibernate.cfg.Configuration;
 public class Client {
 	public static void main(String[] args) {
 		Student st = new Student();
-		st.setId(111);
-		st.setName("kaushik");
+		st.setId(112);
+		st.setName("kk");
 		st.setEmail("kaushikmandal27@gmail.com");
 		//till here transient state
 		
